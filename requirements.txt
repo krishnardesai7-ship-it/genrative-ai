@@ -15,7 +15,6 @@ langchain==0.3.27
 langchain-community==0.3.27
 langchain-google-genai==2.1.8
 langchain-groq==0.3.8
-langchain-openai==0.3.30
 langchain-mistralai==0.2.11
 
 requests
